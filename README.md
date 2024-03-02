@@ -40,9 +40,7 @@ Run server
 
 After running the server. You can access localhost:8080 at your browser. Open multiple tabs to simulate multiple users.
 
-![Demo video](./documentation/demo-gif.mp4)
-
-![Demo gif](documentation/spring-websocket-demo.mp4)
+![Demo gif](./documentation/spring-websocket-demo.gif)
 
 
 
